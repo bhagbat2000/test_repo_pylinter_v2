@@ -28,7 +28,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: linting
-      uses: alexanderdamiani/pylinter@v1.4.0
+      uses: alexanderdamiani/pylinter@v1.4.2
       with:
         python-root: '.'
         flake8-flags: ''
