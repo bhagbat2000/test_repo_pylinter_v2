@@ -1,3 +1,5 @@
+Copyright (c) 2021, Alexander Damiani
+
 # test_repo_pylinter_v2
 
 ## Description
